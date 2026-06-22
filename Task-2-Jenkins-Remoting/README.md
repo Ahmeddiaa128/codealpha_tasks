@@ -216,7 +216,7 @@ Deploy (Simulation)
 Workspace preparation.
 
 <p align="center">
-<img src="docs/screenshots/05-pipeline-stage-checkout.png" width="900">
+<img src="docs/screenshots/06-pipeline-stage-checkout.png" width="900">
 </p>
 
 ---
@@ -226,7 +226,7 @@ Workspace preparation.
 Pipeline executed successfully on the remote Jenkins Agent.
 
 <p align="center">
-<img src="docs/screenshots/06-pipeline-stage-success.png" width="900">
+<img src="docs/screenshots/07-pipeline-stage-success.png" width="900">
 </p>
 
 ---
