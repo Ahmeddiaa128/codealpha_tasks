@@ -136,7 +136,6 @@ docker compose down
 **Ahmed Diaa Hassan**  
 DevOps Engineer (Aspiring)
 
-- GitHub: https://github.com/Ahmeddiaa128/CodeAlpha_Docker_WebServer.git
 - LinkedIn: https://www.linkedin.com/in/ahmed-diaa-hassan-1b7885241
 
 ---
