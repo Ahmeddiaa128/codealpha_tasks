@@ -30,7 +30,7 @@ This project follows the Jenkins Remoting architecture commonly used in producti
 # 📁 Project Structure
 
 ```text
-Task-2-Jenkins-Remoting/
+vagrant/
 │
 ├── Vagrantfile
 ├── Jenkinsfile
