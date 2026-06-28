@@ -1,0 +1,11 @@
+kubernetes
+workflow-aggregator
+git
+github
+configuration-as-code
+docker-workflow
+credentials-binding
+pipeline-stage-view
+blueocean
+ssh-agent
+matrix-auth
