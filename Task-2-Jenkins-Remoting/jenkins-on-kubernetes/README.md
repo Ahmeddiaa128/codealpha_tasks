@@ -362,5 +362,4 @@ The solution closely follows modern cloud-native CI/CD practices used in product
 
 DevOps Engineer
 
-GitHub: https://github.com/Ahmeddiaa128
-
+LinkedIn: https://www.linkedin.com/in/ahmed-diaa-hassan-1b7885241
